@@ -1,0 +1,18 @@
+Hướng dẫn sử dụng tool spam commment vip đa luồng pc
+
+- về cài đặt:
+	bên mình sẽ cài đặt cho bạn qua untraview hoặc teamview
+
+- để chạy tool:
+	chỉ cần nhấn đụp chuột vào file run
+
+- cách thêm token:
+	bạn thêm token tại file token (mỗi token của một nick facebook một dòng nhé), thêm xong nhớ nhấn save nha =)
+
+- cách chọn và thêm chức năng:
+	+ cách chọn chức năng:
+		* khi bạn chạy tool sẽ hiện ra bảng chọn chức năng bạn chỉ cần nhập chức năng 1 hoặc 2 hoặc 3, ...
+		khi đã nhập vào rồi bạn nhấn enter là được
+
+	+ cách nhập dữ liêu:
+		* khi bạn chọn chức năng xong sẽ cần nhập thông tin để spam, nếu tool hỏi nhập gì thì bạn nhập cái đó 		vào và nhấn enter. Lưu ý: khi tool hỏi có muốn sử dụng tính năng hay hỏi bất cứ điều gì mà ở cuối câu 		hỏi đó có (y/n) như vậy thì bạn nhập y là có , n là không. Khi chọn xong bạn enter là được nhé, có chỗ 		nào không hiểu thì inbox hỏi mình theo thông tin liên hệ hiện ở trong tool nha
